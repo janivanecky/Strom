@@ -1,0 +1,5 @@
+build_exe(strom.exe, ./*.cpp Strom/*.cpp)
+libs(kernel32.lib user32.lib gdi32.lib D3D11.lib dxguid.lib d3dcompiler.lib DXGI.lib XAudio2.lib Ole32.lib)
+copy(./*.hlsl, $BIN)
+copy(din.fnt, $BIN)
+copy(din.png, $BIN)
