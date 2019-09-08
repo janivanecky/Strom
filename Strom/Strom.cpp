@@ -1,3 +1,4 @@
+// Authors: Dusan Drevicky, David Pribula, Jan Ivanecky
 #include "Strom.h"
 #include "Model.h"
 #include "TreeModel.h"

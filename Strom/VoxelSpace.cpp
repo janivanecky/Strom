@@ -1,3 +1,4 @@
+// Authors: Dusan Drevicky, David Pribula, Jan Ivanecky
 #include "VoxelSpace.h" 
 
 // TODO(dusan): IsCoordinateInVoxelSpace sa nepouziva, nikdy nenastal pripad, ktory by to opodstatnoval

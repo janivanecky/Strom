@@ -1,3 +1,4 @@
+// Authors: Dusan Drevicky, David Pribula, Jan Ivanecky
 #include "TreeModel.h"
 #include "VoxelSpace.h"
 

@@ -1,3 +1,4 @@
+// Authors: Dusan Drevicky, David Pribula, Jan Ivanecky
 #pragma once
 #include <stdint.h>
 #include "../Math.h"
